@@ -1,5 +1,8 @@
 # Justus Lee
-Location: Detroit, MI | Phone: (313) 613-9070 | Email: justuslee2001@gmail.com | LinkedIn: https://www.linkedin.com/in/justuslee/|
+**Location:** Detroit, MI   
+**Phone:** (313) 613-9070   
+**Email:** justuslee2001@gmail.com   
+**LinkedIn:** https://www.linkedin.com/in/justuslee/|  
 
 ---
 
@@ -9,7 +12,7 @@ Electrical engineering graduate from the University of Detroit Mercy. Seeking a 
 ---
 ## Skills
 
-**Coding proficiencies:** C++ , C , JAVA , Python , ROS , Machine learning/neural networks , XML/XSLT , HTML , SYSTEM VERILOG , JavaScript , Perl , Command prompt
+**Coding proficiencies:** C++, C, JAVA, Python, ROS, Machine learning/neural networks, XML/XSLT, HTML, SYSTEM VERILOG, JavaScript, Perl, Command prompt,
 
 **Software/ skills:** 
 Visual Studio Code ,
@@ -19,17 +22,20 @@ Git/Gitlab ,
 SOLIDWORKS ,
 Bluebeam Revu , 
 AUTOCAD ,
-Navisworks CAD , 
-MICROSOFT TEAMS/ SHAREPOINT ,  
+Navisworks CAD ,
+MICROSOFT TEAMS/ SHAREPOINT ,
 Microsoft office tools ,
 Code Composer Studio ,
-Linux/Linux kernel operating systems , 
+Linux/Linux kernel operating systems ,
 Window operating systems ,
 Wireshark ,
-Controller Area network protocol (CAN) analysis ,  
+Controller Area network protocol (CAN) analysis,
 Proficient in reading schematics and assembling hardware systems ,
+UI experience using npm to manage depencies (User interface),
+MQTT brokers
+(Developed real-time sensor monitoring system using MQTT over TLS for secure message exchange between devices and cloud)
 
-**Soft Skills**
+**Soft skills**
 Leadership ,
 Time management , 
 Effective communication , 
@@ -47,30 +53,42 @@ GPA: 3.27 | 2019-2024
 
 ## Experience
 
-**Mechanical Engineer**  
-ABC Robotics, San Jose, CA  
-_Jan 2021 – Present_  
-- Designed and prototyped 10+ robotic components using SolidWorks and FEA tools.
-- Reduced material cost by 20% through design optimization.
-- Led 5-member team in development of automation line.
+**Project engineering intern/Project management**  
+Walbridge, Dearborn, MI  
+_MAY 2021– AUGUST 2021_ 
 
-**Junior Mechanical Engineer**  
-XYZ Manufacturing, Oakland, CA  
-_Jun 2018 – Dec 2020_  
-- Supported product lifecycle from concept to production.
-- Conducted stress analysis using ANSYS on critical components.
-- Coordinated with suppliers to improve component quality.
+**Project description:** $25 million, 5-month project at the Dearborn engine plant. Demo and installation of multiple machining engine lines.
+- Document control, document retention 
+- design drawing mark-up & as-built generation 
+- project quantity, productivity, & progress tracking (graphically and visually) 
+- punch list generation for project closeout 
+- Coordinated RFI generation as part of project documentation control to ensure alignment between engineering, procurement, and site execution.
+
+**Software developer Intern**  
+FANUC America Corporation , Rochester Hills , MI  
+_May 2023- August 2023_  
+
+- Updating styling of online documentation (Acquired experience with multiple coding languages)
+User interface generation 
+- Diagnosed and resolved 5+ software bugs reported by clients, ensured software stability through unit tests.
+- Developed and executed comprehensive unit tests for various functionalities, ensuring a 100% pass rate and boosting software reliability.
+- Defined scope and technical specifications for code-level bug resolutions across web and backend systems.
+
+**Vehicle cyber engineering lab technician**  
+University of Detroit Mercy , Detroit Michigan , MI   
+_June 2024– August 2024_
+- Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
+- Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs using MQTT cleint. 
+- Researched, developed, and implemented various cyber-attack simulations on a vehicle CAN bus system, including Denial of Service (DoS), spoofing, and impersonation attacks to analyze system vulnerabilities and inform defensive strategies.
+- 
+**Resident advisor**  
+University of Detroit Mercy , Detroit Michigan , MI   
+_MAY 2021– MAY 2023_
+- coordinated and organized activities within the residence halls 
+- assisted students with navigating college life 
+- worked to maintain a safe and welcoming environment on campus 
+
 
 ---
 
-## Education
 
-**B.S. in Mechanical Engineering**  
-University of California, Berkeley  
-_Graduated: 2018_
-
----
-
-## Certifications
-- Certified SolidWorks Professional (CSWP)
-- Six Sigma Green Belt
