@@ -33,7 +33,6 @@ Controller Area network protocol (CAN) analysis,
 Proficient in reading schematics and assembling hardware systems ,
 UI experience using npm to manage depencies (User interface),
 MQTT brokers
-(Developed real-time sensor monitoring system using MQTT over TLS for secure message exchange between devices and cloud)
 
 **Soft skills**
 Leadership ,
@@ -78,9 +77,9 @@ User interface generation
 University of Detroit Mercy , Detroit Michigan , MI   
 _June 2024– August 2024_
 - Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
-- Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs using MQTT cleint. 
+- Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs. Process used a MQTT cleint over TLS for secure message exchange between devices and cloud.
 - Researched, developed, and implemented various cyber-attack simulations on a vehicle CAN bus system, including Denial of Service (DoS), spoofing, and impersonation attacks to analyze system vulnerabilities and inform defensive strategies.
-- 
+  
 **Resident advisor**  
 University of Detroit Mercy , Detroit Michigan , MI   
 _MAY 2021– MAY 2023_
