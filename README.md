@@ -83,9 +83,17 @@ _June 2024– August 2024_
 **Resident advisor**  
 University of Detroit Mercy , Detroit Michigan , MI   
 _MAY 2021– MAY 2023_
-- coordinated and organized activities within the residence halls 
+- coordinated and organized activities within the residence halls
 - assisted students with navigating college life 
-- worked to maintain a safe and welcoming environment on campus 
+- worked to maintain a safe and welcoming environment on campus
+
+**Production line worker**  
+Kath Khemicals, Sterling heights michigan
+_MAY 2017– April 2021_ , _August 2024–January 2026_
+- Learned all aspects of industrial soap production
+- Performed analytical lab testing (pH measurement, titration, moisture analysis) for quality assurance
+- Hands on expirence handling and measuring raw materials, while adhering to production parameters to ensure product consistency
+- Assisted in troubleshooting and repair of key production machinery during line outages to minimize downtime
 
 
 ---
