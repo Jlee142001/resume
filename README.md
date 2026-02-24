@@ -7,7 +7,8 @@
 ---
 
 ## Summary
-Electrical engineering graduate from the University of Detroit Mercy. Seeking a full-time opportunity to gain experience and further expand my engineering knowledge. I am an optimistic and goal-oriented individual driven by results; My pertinacious and creative nature gives me the ability to find unique solutions to the obstacles placed in front of me. I am looking forward to gaining the skills and knowledge necessary to help me succeed in my future career
+Electrical engineering graduate from the University of Detroit Mercy. Seeking a full-time opportunity to gain experience and further expand my engineering knowledge. I am an optimistic and goal-oriented individual driven by results; My creative nature gives me the ability to find unique solutions to the obstacles placed in front of me.
+I am looking forward to gaining the skills and knowledge necessary to help me succeed in my future career
 
 ---
 ## Skills
