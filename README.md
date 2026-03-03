@@ -33,6 +33,8 @@ Windows operating systems ,
 Wireshark ,
 Controller Area network protocol (CAN) analysis,
 Proficient in reading schematics and assembling hardware systems ,
+Designed and tested microcontroller-based systems using SPI, I2C, and UART ,
+Used oscilloscopes and logic analyzers to verify power rails, signal integrity, and communication timing ,
 UI experience using npm to manage dependencies (User interface),
 MQTT brokers
 
