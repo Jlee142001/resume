@@ -83,6 +83,7 @@ _June 2024– August 2024_
 - Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
 - Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs. Process used a MQTT client over TLS for secure message exchange between devices and cloud.
 - Researched, developed, and implemented various cyber-attack simulations on a vehicle CAN bus system, including Denial of Service (DoS), spoofing, and impersonation attacks to analyze system vulnerabilities and inform defensive strategies.
+- Used oscilloscopes and logic analyzers to validate communication signals and system behavior under varying conditions
   
 **Resident advisor**  
 University of Detroit Mercy , Detroit Michigan , MI   
