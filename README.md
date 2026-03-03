@@ -18,14 +18,15 @@ I am looking forward to gaining the skills and knowledge necessary to help me su
 **Software/ skills:** 
 Visual Studio Code ,
 MATLAB/Simulink ,
-VIVDAO ,
-Git/Gitlab ,
+VIVADO ,
+Git/GitLab ,
 SOLIDWORKS ,
 Bluebeam Revu , 
-AUTOCAD ,
+AutoCAD ,
+SystemVerilog ,
 Navisworks CAD ,
 MICROSOFT TEAMS/ SHAREPOINT ,
-Microsoft office tools ,
+Microsoft Office tools ,
 Code Composer Studio ,
 Linux/Linux kernel operating systems ,
 Windows operating systems ,
@@ -89,11 +90,11 @@ _MAY 2021– MAY 2023_
 - worked to maintain a safe and welcoming environment on campus
 
 **Production line worker**  
-Kath Khemicals, Sterling heights michigan
+Kath Khemicals, Sterling Heights michigan
 _MAY 2017– April 2021_ , _August 2024–January 2026_
 - Learned all aspects of industrial soap production
 - Performed analytical lab testing (pH measurement, titration, moisture analysis) for quality assurance
-- Hands on experience handling and measuring raw materials, while adhering to production parameters to ensure product consistency
+- Hands-on experience handling and measuring raw materials, while adhering to production parameters to ensure product consistency
 - Assisted in troubleshooting and repair of key production machinery during line outages to minimize downtime
 
 
