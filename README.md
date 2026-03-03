@@ -8,7 +8,7 @@
 
 ## Summary
 Electrical engineering graduate from the University of Detroit Mercy. Seeking a full-time opportunity to gain experience and further expand my engineering knowledge. I am an optimistic and goal-oriented individual driven by results; My creative nature gives me the ability to find unique solutions to the obstacles placed in front of me.
-I am looking forward to gaining the skills and knowledge necessary to help me succeed in my future career
+I am looking forward to gaining the skills and knowledge necessary to help me succeed in my future career.
 
 ---
 ## Skills
@@ -28,11 +28,11 @@ MICROSOFT TEAMS/ SHAREPOINT ,
 Microsoft office tools ,
 Code Composer Studio ,
 Linux/Linux kernel operating systems ,
-Window operating systems ,
+Windows operating systems ,
 Wireshark ,
 Controller Area network protocol (CAN) analysis,
 Proficient in reading schematics and assembling hardware systems ,
-UI experience using npm to manage depencies (User interface),
+UI experience using npm to manage dependencies (User interface),
 MQTT brokers
 
 **Soft skills**
@@ -78,7 +78,7 @@ User interface generation
 University of Detroit Mercy , Detroit Michigan , MI   
 _June 2024– August 2024_
 - Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
-- Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs. Process used a MQTT cleint over TLS for secure message exchange between devices and cloud.
+- Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs. Process used a MQTT client over TLS for secure message exchange between devices and cloud.
 - Researched, developed, and implemented various cyber-attack simulations on a vehicle CAN bus system, including Denial of Service (DoS), spoofing, and impersonation attacks to analyze system vulnerabilities and inform defensive strategies.
   
 **Resident advisor**  
@@ -93,7 +93,7 @@ Kath Khemicals, Sterling heights michigan
 _MAY 2017– April 2021_ , _August 2024–January 2026_
 - Learned all aspects of industrial soap production
 - Performed analytical lab testing (pH measurement, titration, moisture analysis) for quality assurance
-- Hands on expirence handling and measuring raw materials, while adhering to production parameters to ensure product consistency
+- Hands on experience handling and measuring raw materials, while adhering to production parameters to ensure product consistency
 - Assisted in troubleshooting and repair of key production machinery during line outages to minimize downtime
 
 
