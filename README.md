@@ -48,11 +48,14 @@ Time management ,
 Effective communication , 
 Conflict resolution ,
 Customer service experience ,
+
 ---
+
 ## Education
 Bachelor of Electrical Engineering |
 University of Detroit Mercy |
 GPA: 3.27 | 2019-2024
+
 ---
 ## Experience
 
