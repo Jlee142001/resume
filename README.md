@@ -31,12 +31,16 @@ Code Composer Studio ,
 Linux/Linux kernel operating systems ,
 Windows operating systems , 
 Wireshark ,
-Controller Area network protocol (CAN) analysis,
+UI experience using npm to manage dependencies (User interface) ,
+MQTT brokers , 
+CANalyzer by Vector ,
+
+**hardware profiences:**
+Hands‑on experience with vehicle communication protocols (CAN, LIN, Automotive Ethernet/DoIP) , 
+Hands-on experience using microcontroller(Raspberry Pi, STM32) ,
 Proficient in reading schematics and assembling hardware systems , 
-Designed and tested microcontroller-based systems using SPI, I2C, and UART , 
-oscilloscopes and logic analyzers , 
-UI experience using npm to manage dependencies (User interface),
-MQTT brokers
+Designed and tested microcontroller-based systems using SPI, I2C, and UART ,
+oscilloscopes and logic analyzers ,
 
 **Soft skills**
 Leadership ,
@@ -44,16 +48,12 @@ Time management ,
 Effective communication , 
 Conflict resolution ,
 Customer service experience ,
-
 ---
-
 ## Education
 Bachelor of Electrical Engineering |
 University of Detroit Mercy |
 GPA: 3.27 | 2019-2024
-
 ---
-
 ## Experience
 
 **Project engineering intern/Project management**  
