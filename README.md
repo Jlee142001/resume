@@ -15,7 +15,7 @@ I am looking forward to gaining the skills and knowledge necessary to help me su
 
 **Coding proficiencies:** C++, C, JAVA, Python, ROS, Machine learning/neural networks, XML/XSLT, HTML, SYSTEM VERILOG, JavaScript, Perl, Command prompt,
 
-**Software/ skills:** 
+**Software proficiencies:** 
 Visual Studio Code ,
 MATLAB/Simulink ,
 VIVADO ,
@@ -35,7 +35,7 @@ UI experience using npm to manage dependencies (User interface) ,
 MQTT brokers , 
 CANalyzer by Vector ,
 
-**hardware profiences:**
+**Hardware profiences:**
 Hands‑on experience with vehicle communication protocols (CAN, LIN, Automotive Ethernet/DoIP) , 
 Hands-on experience using microcontroller(Raspberry Pi, STM32) ,
 Proficient in reading schematics and assembling hardware systems , 
