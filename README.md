@@ -13,9 +13,9 @@ I am looking forward to gaining the skills and knowledge necessary to help me su
 ---
 ## Skills
 
-**Coding proficiencies:** C++, C, JAVA, Python, ROS, Machine learning/neural networks, XML/XSLT, HTML, SYSTEM VERILOG, JavaScript, Perl, Command prompt,
+**Coding/ Programming :** C++, C, JAVA, Python, ROS, Machine learning/neural networks, XML/XSLT, HTML, SYSTEM VERILOG, JavaScript, Perl, Command prompt,
 
-**Software proficiencies:** 
+**Software & tools:** 
 Visual Studio Code ,
 MATLAB/Simulink ,
 VIVADO ,
@@ -24,6 +24,7 @@ SOLIDWORKS ,
 Bluebeam Revu , 
 AutoCAD ,
 Simultaneous Localization and Mapping (SLAM) ,
+FSM (Finite State Machines) ,
 SystemVerilog ,
 Navisworks CAD ,
 MICROSOFT TEAMS/ SHAREPOINT ,
@@ -33,13 +34,14 @@ Linux/Linux kernel operating systems ,
 Windows operating systems , 
 Wireshark ,
 UI experience using npm to manage dependencies (User interface) ,
-MQTT brokers , 
-CANalyzer by Vector ,
-**Hardware profiences:**
-Hands‑on experience with vehicle communication protocols (CAN, LIN, Automotive Ethernet/DoIP) , 
-Hands-on experience using microcontroller(Raspberry Pi, STM32) ,
+MQTT brokers/clients  , 
+CANalyzer ,
+
+**Hardware:**
+Vehicle communication protocols (CAN, LIN, Automotive Ethernet/DoIP) , 
+Experience using microcontroller(Raspberry Pi, STM32) ,
 Proficient in reading schematics and assembling hardware systems , 
-Designed and tested microcontroller-based systems using SPI, I2C, and UART ,
+Design/test microcontroller-based systems using SPI, I2C, and UART ,
 oscilloscopes and logic analyzers ,
 
 **Soft skills**
@@ -59,7 +61,7 @@ GPA: 3.27 | 2019-2024
 ---
 ## Experience
 
-**Project engineering intern/Project management**  
+**Project Engineering Intern/Project Management**  
 Walbridge, Dearborn, MI  
 _MAY 2021– AUGUST 2021_ 
 
@@ -70,7 +72,7 @@ _MAY 2021– AUGUST 2021_
 - punch list generation for project closeout 
 - Coordinated RFI generation as part of project documentation control to ensure alignment between engineering, procurement, and site execution.
 
-**Software developer Intern**  
+**Software Developer Intern**  
 FANUC America Corporation , Rochester Hills , MI  
 _May 2023- August 2023_  
 
@@ -80,7 +82,7 @@ User interface generation
 - Developed and executed comprehensive unit tests for various functionalities, ensuring a 100% pass rate and boosting software reliability.
 - Defined scope and technical specifications for code-level bug resolutions across web and backend systems.
 
-**Vehicle cyber engineering lab technician**  
+**Vehicle Cyber Engineering Lab Technician**  
 University of Detroit Mercy , Detroit Michigan , MI   
 _June 2024– August 2024_
 - Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
