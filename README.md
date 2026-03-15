@@ -42,14 +42,6 @@ Electrical engineering graduate from the University of Detroit Mercy with experi
 **Operating Systems:**
 
  Linux/Linux kernel operating systems (Ubuntu) , Windows operating systems , Command Prompt
-  
-**Collaboration & Productivity Tools:**
-
- Microsoft Teams/ Sharepoint , Microsoft Office tools
-  
-**Soft skills**
-
- Leadership , Time management , Effective communication , Conflict resolution , Customer service experience
  
 ---
 ## Education
@@ -88,7 +80,7 @@ GPA: 3.27 | 2019-2024
 _MAY 2021– AUGUST 2021_ 
 **Project description:** $25 million, 5-month project at the Dearborn engine plant. Demo and installation of multiple machining engine lines.
 
-- Document control, document retention 
+- Managed engineering documentation control and revision tracking for large-scale industrial installation project.
 - Design drawing mark-up & as-built generation 
 - Project quantity, productivity, & progress tracking (graphically and visually) 
 - Punch list generation for project closeout 
