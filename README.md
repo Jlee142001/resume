@@ -87,10 +87,10 @@ GPA: 3.27 | 2019-2024
 ## Experience
 
 ### Project Engineering Intern/Project Management 
-**Walbridge** - Dearborn, MI  
+**Walbridge** , Dearborn, MI  
 _MAY 2021– AUGUST 2021_ 
-
 **Project description:** $25 million, 5-month project at the Dearborn engine plant. Demo and installation of multiple machining engine lines.
+
 - Document control, document retention 
 - Design drawing mark-up & as-built generation 
 - Project quantity, productivity, & progress tracking (graphically and visually) 
@@ -99,7 +99,8 @@ _MAY 2021– AUGUST 2021_
 
 ### Software Developer Intern 
 **FANUC America Corporation** , Rochester Hills , MI  
-_May 2023- August 2023_  
+_May 2023– August 2023_  
+
 - Developed and modified front-end documentation tools using JavaScript and HTML to improve usability of robotics software documentation (Acquired experience with multiple coding languages)
 - Redesigned the user interface of a customer outage reporting portal, improving usability and submission workflow using JavaScript and HTML. 
 - Diagnosed and resolved 5+ software bugs reported by clients, ensured software stability through unit tests.
@@ -108,6 +109,7 @@ _May 2023- August 2023_
 
 ### Vehicle Cyber Engineering Lab Technician
 **University of Detroit Mercy** , Detroit , MI   
+
 _June 2024– August 2024_
 - Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
 - Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs. Process used a MQTT client over TLS for secure message exchange between devices and cloud.
@@ -116,6 +118,7 @@ _June 2024– August 2024_
   
 ### Resident advisor  
 **University of Detroit Mercy** , Detroit , MI   
+
 _MAY 2021– MAY 2023_
 - coordinated and organized activities within the residence halls
 - assisted students with navigating college life 
@@ -123,6 +126,7 @@ _MAY 2021– MAY 2023_
 
 ### Production line worker 
 **Kath Khemicals** , Sterling Heights, MI
+
 _MAY 2017– April 2021_ , _August 2024–January 2026_
 - Learned all aspects of industrial soap production
 - Performed analytical lab testing (pH measurement, titration, moisture analysis) for quality assurance
