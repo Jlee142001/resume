@@ -59,6 +59,28 @@ University of Detroit Mercy |
 GPA: 3.27 | 2019-2024
 
 ---
+## Projects
+
+### CAN Bus Anomaly Detection Using LSTM Autoencoder
+- Developed an anomaly detection system for in-vehicle CAN bus traffic using an LSTM autoencoder trained on time-series message data
+- Parsed and vectorized CAN frames by converting hexadecimal payload bytes and arbitration IDs into normalized numerical features
+- Implemented model in Python using TensorFlow/Keras to learn baseline network behavior from normal vehicle traffic logs
+- Detected anomalous activity by analyzing reconstruction error between predicted and observed CAN message sequences
+### Autonomous Robot with Ethernet and Xbox Controller Interface
+- Developed embedded control software in C for a microcontroller-based robotic platform
+- Implemented Ethernet communication to enable remote robot control and monitoring over a network connection
+- Integrated Xbox controller input directly into control software for manual operation and testing
+- Implemented hardware communication interfaces (UART/SPI) for microcontroller interaction with system components
+### Traffic Light Controller FSM
+- Designed a finite state machine traffic light controller (9+ states) using SystemVerilog
+- Developed testbenches to verify correct state transitions and timing behavior
+- Simulated and validated design using Xilinx Vivado with waveform analysis for debugging
+- Verified operation across multiple traffic sequencing and timing scenarios
+### Host-Based Intrusion Detection System (In progress)
+- Developing a host-based intrusion detection system to monitor system activity and detect suspicious behavior
+- Implementing log parsing and rule-based detection to identify anomalous processes and events
+- Generating alerts based on analysis of system logs and simulated attack scenarios
+  
 ## Experience
 
 ### Project Engineering Intern/Project Management 
