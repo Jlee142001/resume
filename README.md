@@ -7,7 +7,7 @@
 ---
 ## Summary 
 
-Electrical Engineering graduate with experience in embedded systems, microcontroller development (STM32, Raspberry Pi), and vehicle communication protocols (CAN, LIN). Skilled in C/C++ and Python for system development, testing, and debugging. Hands-on experience with hardware interfaces (SPI, I2C, UART) and engineering tools including MATLAB/Simulink, oscilloscopes, and logic analyzers. Internship experience at FANUC America Corporation and Walbridge supporting software tools and engineering operations. Seeking an entry-level Embedded, Controls Engineer, Firmware Engineer role.
+Electrical Engineering graduate with experience in embedded systems, microcontroller development (STM32, Raspberry Pi), and vehicle communication protocols (CAN, LIN). Skilled in C/C++ and Python for system development, testing, and debugging. Hands-on experience with hardware interfaces (SPI, I2C, UART) and engineering tools including MATLAB/Simulink, oscilloscopes, and logic analyzers. Internship experience at FANUC America Corporation and Walbridge supporting software tools and engineering operations. Seeking an entry-level Embedded engineer, Controls Engineer, or Firmware Engineer role.
 
 ---
 ## Skills
