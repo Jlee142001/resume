@@ -83,7 +83,7 @@ _MAY 2021– AUGUST 2021_
 **FANUC America Corporation** , Rochester Hills , MI  
 _May 2023– August 2023_  
 
-- Developed and modified front-end documentation tools using Python and HTML to improve usability of robotics software documentation (Acquired experience with multiple coding languages)
+- Developed and modified documentation tools using Python scripting and HTML, improving usability and efficiency of robotics software documentation (Acquired experience with multiple coding languages)
 - Redesigned the user interface of a customer outage reporting portal, improving usability and submission workflow using JavaScript and HTML. 
 - Diagnosed and resolved 5+ software bugs reported by clients, ensured software stability through unit tests.
 - Developed and executed comprehensive unit tests for various functionalities, ensuring a 100% pass rate and boosting software reliability.
