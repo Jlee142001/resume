@@ -13,6 +13,12 @@ Electrical engineering graduate from the University of Detroit Mercy with experi
 
 **Coding/ Programming :** 
  C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , XML/XSLT , HTML
+  
+**Embedded Systems & Hardware:**
+ Experience using microcontroller(Raspberry Pi, STM32) , Proficient in reading schematics and assembling hardware systems , Design/test microcontroller-based systems using SPI, I2C, and UART , oscilloscopes and logic analyzers
+ 
+ **Vehicle Networks & Communication Protocols:**
+ CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
  
 **Software & Development tools:** 
  Visual Studio Code , MATLAB/Simulink , Vivado , Git/GitLab , Code Composer Studio , Wireshark
@@ -23,17 +29,11 @@ Electrical engineering graduate from the University of Detroit Mercy with experi
 **CAD & Engineering Software:**
  SOLIDWORKS , Bluebeam Revu , AutoCAD , Navisworks CAD
  
-**Embedded Systems & Hardware:**
- Experience using microcontroller(Raspberry Pi, STM32) , Proficient in reading schematics and assembling hardware systems , Design/test microcontroller-based systems using SPI, I2C, and UART , oscilloscopes and logic analyzers
- 
-**Vehicle Networks & Communication Protocols:**
- CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
+ **Operating Systems:**
+ Linux/Linux kernel operating systems (Ubuntu) , Windows operating systems , Command Prompt
  
 **Web & Interface Development:**
  npm (Node Package Manager) – dependency management for UI development , XML/XSLT , HTML , JavaScript
- 
-**Operating Systems:**
- Linux/Linux kernel operating systems (Ubuntu) , Windows operating systems , Command Prompt
  
 ---
 ## Education
