@@ -65,7 +65,7 @@ GPA: 3.27 | 2019-2024
 - Developing a host-based intrusion detection system to monitor and analyze system activity
 - Implementing log parsing and rule-based detection to identify anomalous processes and events
 - Generating alerts based on simulated attack scenarios
--   
+---
 ## Experience
 
 ### Project Engineering Intern/Project Management 
@@ -106,6 +106,7 @@ _MAY 2021– MAY 2023_
 - Resolved conflicts and handled high-pressure situations requiring strong problem-solving and communication skills
 - Coordinated and organized events to improve resident engagement and community involvement
 - Enforced university policies and ensured compliance with housing regulations
+### Production worker
 **Kath Khemicals** , Sterling Heights, MI
 
 _MAY 2017– April 2021_ , _August 2024–January 2026_
