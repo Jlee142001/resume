@@ -6,16 +6,17 @@
 
 ---
 ## Summary 
-Electrical engineering graduate from the University of Detroit Mercy with experience in embedded systems, vehicle communication protocols (CAN, LIN), and microcontroller development. Internship experience in robotics software (FANUC) and engineering project coordination (Walbridge). Experience with C/C++, Python, and SystemVerilog for hardware control, automation, and robotics applications. Hands-on experience with STM32, Raspberry Pi, MATLAB/Simulink, and hardware debugging tools including oscilloscopes and logic analyzers. Seeking a full-time opportunity to gain experience and further expand my engineering knowledge. 
+
+Electrical Engineering graduate with experience in embedded systems, microcontroller development (STM32, Raspberry Pi), and vehicle communication protocols (CAN, LIN). Skilled in C/C++ and Python for system development, testing, and debugging. Hands-on experience with hardware interfaces (SPI, I2C, UART) and engineering tools including MATLAB/Simulink, oscilloscopes, and logic analyzers. Internship experience at FANUC America Corporation and Walbridge supporting software tools and engineering operations. Seeking an entry-level Embedded, Controls Engineer, Firmware Engineer role.
 
 ---
 ## Skills
 
 **Coding/ Programming :** 
- C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , XML/XSLT , HTML
+ C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML
   
 **Embedded Systems & Hardware:**
- Experience using microcontroller(Raspberry Pi, STM32) , Proficient in reading schematics and assembling hardware systems , Design/test microcontroller-based systems using SPI, I2C, and UART , oscilloscopes and logic analyzers
+Raspberry Pi, STM32 , Proficient in reading schematics and assembling hardware systems , SPI, I2C, UART , oscilloscopes, logic analyzers
  
  **Vehicle Networks & Communication Protocols:**
  CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
@@ -33,7 +34,7 @@ Electrical engineering graduate from the University of Detroit Mercy with experi
  Linux/Linux kernel operating systems (Ubuntu) , Windows operating systems , Command Prompt
  
 **Web & Interface Development:**
- npm (Node Package Manager) – dependency management for UI development , XML/XSLT , HTML , JavaScript
+ npm (Node Package Manager) , XML/XSLT , JavaScript
  
 ---
 ## Education
@@ -51,20 +52,20 @@ GPA: 3.27 | 2019-2024
 - Implemented model in Python using TensorFlow/Keras to learn baseline network behavior from normal vehicle traffic logs
 - Detected anomalous activity by analyzing reconstruction error between predicted and observed CAN message sequences
 ### Autonomous Robot with Ethernet and Xbox Controller Interface
-- Developed embedded control software in C for a microcontroller-based robotic platform
+- Developed embedded control software in C for a microcontroller-based robotic system enabling real-time operation
 - Implemented Ethernet communication to enable remote robot control and monitoring over a network connection
-- Integrated Xbox controller input directly into control software for manual operation and testing
 - Implemented hardware communication interfaces (UART/SPI) for microcontroller interaction with system components
+- Integrated Xbox controller input directly into control software for manual operation and testing
 ### Traffic Light Controller FSM
 - Designed a finite state machine traffic light controller (9+ states) using SystemVerilog
 - Developed testbenches to verify correct state transitions and timing behavior
 - Simulated and validated design using Xilinx Vivado with waveform analysis for debugging
 - Verified operation across multiple traffic sequencing and timing scenarios
 ### Host-Based Intrusion Detection System (In progress)
-- Developing a host-based intrusion detection system to monitor system activity and detect suspicious behavior
+- Developing a host-based intrusion detection system to monitor and analyze system activity
 - Implementing log parsing and rule-based detection to identify anomalous processes and events
-- Generating alerts based on analysis of system logs and simulated attack scenarios
-  
+- Generating alerts based on simulated attack scenarios
+-   
 ## Experience
 
 ### Project Engineering Intern/Project Management 
@@ -101,11 +102,10 @@ _June 2024– August 2024_
 **University of Detroit Mercy** , Detroit , MI   
 
 _MAY 2021– MAY 2023_
-- coordinated and organized activities within the residence halls
-- assisted students with navigating college life 
-- worked to maintain a safe and welcoming environment on campus
-
-### Production line worker 
+- Supported and managed a community of 50+ residents, addressing concerns and maintaining a safe living environment
+- Resolved conflicts and handled high-pressure situations requiring strong problem-solving and communication skills
+- Coordinated and organized events to improve resident engagement and community involvement
+- Enforced university policies and ensured compliance with housing regulations
 **Kath Khemicals** , Sterling Heights, MI
 
 _MAY 2017– April 2021_ , _August 2024–January 2026_
