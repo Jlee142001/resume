@@ -7,114 +7,108 @@
 ---
 ## Summary 
 
-Electrical Engineering graduate with experience in embedded systems, microcontroller development (STM32, Raspberry Pi), and vehicle communication protocols (CAN, LIN). Skilled in C/C++ and Python for system development, testing, and debugging. Hands-on experience with hardware interfaces (SPI, I2C, UART) and engineering tools including MATLAB/Simulink, oscilloscopes, and logic analyzers. Internship experience at FANUC America Corporation and Walbridge supporting software tools and engineering operations. Quick learner with strong adaptability seeking entry-level opportunities in engineering, technical, or operations roles.
+Electrical Engineering graduate with hands-on experience in embedded systems, vehicle networks (CAN/LIN), and microcontroller development (STM32, Raspberry Pi). Proficient in C/C++ and Python for system development, testing, and debugging. Background includes robotics software, automotive cybersecurity, and engineering support in industrial environments. Seeking an entry-level role in embedded systems, automotive engineering, or controls.
 
 ---
 ## Skills
 
-**Coding/ Programming :** 
- C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML
-  
-**Embedded Systems & Hardware:**
-Raspberry Pi, STM32 , Proficient in reading schematics and assembling hardware systems , SPI, I2C, UART , oscilloscopes, logic analyzers
- 
- **Vehicle Networks & Communication Protocols:**
- CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
- 
-**Software & Development tools:** 
- Visual Studio Code , MATLAB/Simulink , Vivado , Git/GitLab , Code Composer Studio , Wireshark
- 
-**Robotics & System Design:**
- Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines)
- 
-**CAD & Engineering Software:**
- SOLIDWORKS , Bluebeam Revu , AutoCAD , Navisworks CAD
- 
- **Operating Systems:**
- Linux/Linux kernel operating systems (Ubuntu) , Windows operating systems , Command Prompt
- 
-**Web & Interface Development:**
- npm (Node Package Manager) , XML/XSLT , JavaScript
- 
+**Coding/ Programming :**  C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML, JavaScript, xml   
+
+**Embedded Systems & Hardware:** STM32, Raspberry Pi, SPI, I2C, UART, oscilloscopes, logic analyzers
+
+**Vehicle Networks & Communication Protocols:** CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
+
+**Software & Development tools:**  Visual Studio Code , MATLAB/Simulink , Xilinx Vivado , Git/GitLab , Code Composer Studio , Wireshark
+
+**Robotics & System Design:** Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines)
+
+**CAD & Engineering Software:**  SOLIDWORKS , Bluebeam Revu , AutoCAD , Navisworks CAD
+
+**Operating Systems:**  Linux (Ubuntu) , Windows  
+
 ---
-## Education
+# Education
 
 Bachelor of Electrical Engineering |
 University of Detroit Mercy |
 GPA: 3.27 | 2019-2024
 
 ---
-## Projects
 
-### CAN Bus Anomaly Detection Using LSTM Autoencoder
-- Developed an anomaly detection system for in-vehicle CAN bus traffic using an LSTM autoencoder trained on time-series message data
-- Parsed and vectorized CAN frames by converting hexadecimal payload bytes and arbitration IDs into normalized numerical features
-- Implemented model in Python using TensorFlow/Keras to learn baseline network behavior from normal vehicle traffic logs
-- Detected anomalous activity by analyzing reconstruction error between predicted and observed CAN message sequences
-### Autonomous Robot with Ethernet and Xbox Controller Interface
-- Developed embedded control software in C for a microcontroller-based robotic system enabling real-time operation
-- Implemented Ethernet communication to enable remote robot control and monitoring over a network connection
-- Implemented hardware communication interfaces (UART/SPI) for microcontroller interaction with system components
-- Integrated Xbox controller input directly into control software for manual operation and testing
-### Traffic Light Controller FSM
-- Designed a finite state machine traffic light controller (9+ states) using SystemVerilog
-- Developed testbenches to verify correct state transitions and timing behavior
-- Simulated and validated design using Xilinx Vivado with waveform analysis for debugging
-- Verified operation across multiple traffic sequencing and timing scenarios
-### Host-Based Intrusion Detection System (In progress)
-- Developing a host-based intrusion detection system to monitor and analyze system activity
-- Implementing log parsing and rule-based detection to identify anomalous processes and events
-- Generating alerts based on simulated attack scenarios
----
 ## Experience
 
 ### Project Engineering Intern/Project Management 
 **Walbridge** , Dearborn, MI  
 _MAY 2021– AUGUST 2021_ 
 **Project description:** $25 million, 5-month project at the Dearborn engine plant. Demo and installation of multiple machining engine lines.
-
 - Managed engineering documentation control and revision tracking for large-scale industrial installation project.
-- Design drawing mark-up & as-built generation 
-- Project quantity, productivity, & progress tracking (graphically and visually) 
-- Punch list generation for project closeout 
-- Coordinated RFI (Request for Information) generation as part of project documentation control to ensure alignment between engineering, procurement, and site execution.
+- Created and updated as-built drawings based on field changes
+- Tracked project progress, quantities, and productivity metrics
+- Generated punch lists to support project closeout 
+- Coordinated RFI (Request for Information) to ensure alignment between engineering, procurement, and site execution.
 
 ### Software Developer Intern 
 **FANUC America Corporation** , Rochester Hills , MI  
 _May 2023– August 2023_  
 
-- Developed and modified documentation tools using Python scripting and HTML, improving usability and efficiency of robotics software documentation (Acquired experience with multiple coding languages)
-- Redesigned the user interface of a customer outage reporting portal, improving usability and submission workflow using JavaScript and HTML. 
-- Diagnosed and resolved 5+ software bugs reported by clients, ensured software stability through unit tests.
+- Fixed software bugs in client-facing robotics applications using Python and command-line tools, improving software reliability and user experience
+- Developed and modified software using Python scripting and HTML, improving usability and efficiency of robotics software (Acquired experience with multiple coding languages)
+- Redesigned a customer outage reporting portal, simplifying submission and improving usability
+- Identified and resolved 6+ client-reported software bugs across web and backend systems
 - Developed and executed comprehensive unit tests for various functionalities, ensuring a 100% pass rate and boosting software reliability.
-- Defined scope and technical specifications for code-level bug resolutions across web and backend systems.
+- Defined technical requirements for bug fixes and coordinated implementation across systems
 
 ### Vehicle Cyber Engineering Lab Technician
 **University of Detroit Mercy** , Detroit , MI   
 
 _June 2024– August 2024_
-- Assisted in preparing and configuring lab equipment for educational use in a Vehicle Cybersecurity Lab, supporting hands-on learning for future classes.
-- Set up a secure tunneling protocol for a vehicle’s CAN (Controller Area Network) bus, enabling remote control capabilities via terminal commands or scripted inputs. Process used a MQTT client over TLS for secure message exchange between devices and cloud.
-- Researched, developed, and implemented various cyber-attack simulations on a vehicle CAN bus system, including Denial of Service (DoS), spoofing, and impersonation attacks to analyze system vulnerabilities and inform defensive strategies.
-- Used oscilloscopes and logic analyzers to validate communication signals and system behavior under varying conditions
+- Configured a Raspberry Pi connected to the vehicle OBD-II port to capture and securely tunnel CAN bus traffic to a network, enabling Python-based remote control of vehicle functions via external interfaces
+- Conducted simulated cyberattacks through external interace, including denial-of-service (DoS), spoofing, and impersonation, to evaluate vehicle network vulnerabilities and support development of defensive strategies
+- Integrated Xbox controller input over MQTT/TLS to operate vehicle systems remotely in real-time, demonstrating hands-on embedded and networked control
+- Validated signal integrity and system behavior using oscilloscopes and logic analyzers during system testing
+- Integrated Xbox controller input over MQTT/TLS to operate vehicle systems remotely in real-time, demonstrating hands-on embedded and networked control
+
+---
+  ## Projects
+
+### CAN Bus Anomaly Detection Using LSTM Autoencoder
+- Built an anomaly detection model for in-vehicle CAN traffic using an LSTM autoencoder trained on time-series data
+- Processed and normalized CAN frames by converting payload bytes and arbitration IDs into numerical features
+- Implemented model in Python (TensorFlow/Keras) to learn baseline vehicle network behavior
+- Detected abnormal activity by analyzing reconstruction error between predicted and actual message sequences
+### Autonomous Robot with Ethernet and Xbox Controller Interface
+- Developed embedded C software for a microcontroller-based robotic system enabling real-time control
+- Implemented Ethernet communication for remote operation and monitoring over a network
+- Integrated UART/SPI interfaces for communication between system components
+- Added Xbox controller support for manual control and testing
+### Traffic Light Controller FSM
+- Designed a 9+ state finite state machine for traffic signal control
+- Developed testbenches to verify timing and state transitions
+- Simulated and debugged design using Vivado waveform analysis
+### Host-Based Intrusion Detection System (In progress)
+- Developing a system to monitor and analyze host activity for potential security threats
+- Implementing log parsing and rule-based detection for anomalous processes
+- Generating alerts based on simulated attack scenarios'
   
+---
+## Other Experience
+
 ### Resident advisor  
 **University of Detroit Mercy** , Detroit , MI   
 
 _MAY 2021– MAY 2023_
-- Supported and managed a community of 50+ residents, addressing concerns and maintaining a safe living environment
-- Resolved conflicts and handled high-pressure situations requiring strong problem-solving and communication skills
-- Coordinated and organized events to improve resident engagement and community involvement
+- Managed a residential community of 50+ students, addressing concerns and maintaining safety
+- Mediated conflicts and handled time-sensitive situations requiring strong judgment
+- Organized events to improve resident engagement and participation
 - Enforced university policies and ensured compliance with housing regulations
 ### Production worker
 **Kath Khemicals** , Sterling Heights, MI
 
 _MAY 2017– April 2021_ , _August 2024–January 2026_
 - Learned all aspects of industrial soap production
-- Performed analytical lab testing (pH measurement, titration, moisture analysis) for quality assurance
-- Hands-on experience handling and measuring raw materials, while adhering to production parameters to ensure product consistency
-- Assisted in troubleshooting and repair of key production machinery during line outages to minimize downtime
-
+- Performed quality control testing including pH measurement, titration, and moisture analysis
+- Handled raw materials and maintained production parameters to ensure product consistency 
+- Assisted in troubleshooting and minor repair of production equipment to reduce downtime
 
 ---
 
