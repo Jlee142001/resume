@@ -81,11 +81,6 @@ _June 2024– August 2024_
 - Implemented Ethernet communication for remote operation and monitoring over a network
 - Integrated UART/SPI interfaces for communication between system components
 - Added Xbox controller support for manual control and testing
-### Host-Based Intrusion Detection System (In progress)
-- Developing a system to monitor and analyze host activity for potential security threats
-- Implementing log parsing and rule-based detection for anomalous processes
-- Generating alerts based on simulated attack scenarios'
-  
 ---
 ## Other Experience
 
