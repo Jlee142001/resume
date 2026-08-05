@@ -7,31 +7,30 @@
 ---
 ## Summary 
 
-Electrical Engineering graduate with hands-on experience developing embedded software, vehicle communication systems (CAN/LIN), networked control applications, and microcontroller development (STM32, Raspberry Pi). Proficient in C/C++ and Python for system development, testing, and debugging. Background includes robotics software, automotive cybersecurity, and engineering support in industrial environments. Seeking an entry-level embedded systems, automotive engineering, or controls engineering role.
+Electrical Engineering graduate with internship experience with embedded software development, software development, automotive cybersecurity, and automotive communication systems. Experienced in C/C++ and Python for developing, debugging, testing, and automating software solutions. Hands-on experience using STM32, Raspberry Pi, CAN/LIN, and oscilloscopes. Additional experience includes implementing machine learning and neural network models through engineering projects. Seeking an entry-level embedded software, firmware, automotive, systems, validation, or controls engineering position.
 
----
 ## Skills
 
-**Coding/ Programming :**  C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML,
+**Programming :**  
+C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML,
 
-**Embedded Systems & Hardware:** STM32, Raspberry Pi, SPI, I2C, UART, oscilloscopes, logic analyzers
+**Embedded Systems & Hardware:** 
+STM32, Raspberry Pi, SPI, I2C, UART, oscilloscopes, logic analyzers
 
-**Vehicle Networks & Communication Protocols:** CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
+**Vehicle Networks & Communication Protocols:** 
+CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
 
-**Software & Development tools:**  Visual Studio Code , MATLAB/Simulink , Xilinx Vivado , Git/GitLab , Code Composer Studio , Wireshark
+**Software & Development tools:**  
+Visual Studio Code , MATLAB/Simulink , Xilinx Vivado , Git/GitLab , Code Composer Studio , Wireshark
 
-**Robotics & System Design:** Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines)
+**Robotics & System Design:** 
+Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines)
 
-**CAD & Engineering Software:**  SOLIDWORKS , Bluebeam Revu , AutoCAD , Navisworks CAD
+**CAD & Engineering Software:**  
+SOLIDWORKS , Bluebeam Revu , AutoCAD , Navisworks CAD
 
-**Operating Systems:**  Linux (Ubuntu) , Windows  
-
----
-# Education
-
-Bachelor of Electrical Engineering |
-University of Detroit Mercy |
-GPA: 3.27 | 2019-2024
+**Operating Systems:**  
+Linux (Ubuntu) , Windows  
 
 ---
 
@@ -67,6 +66,13 @@ _June 2024– August 2024_
 - Integrated Xbox controller input over MQTT/TLS to operate vehicle systems remotely in real-time, demonstrating hands-on embedded and networked control
 - Validated signal integrity and system behavior using oscilloscopes and logic analyzers during system testing
   
+---
+# Education
+
+Bachelor of Electrical Engineering |
+University of Detroit Mercy |
+GPA: 3.27 | 2019-2024
+
 ---
   ## Projects
 
