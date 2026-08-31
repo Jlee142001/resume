@@ -106,5 +106,5 @@ _MAY 2017– April 2021_ , _August 2024–January 2026_
 - Performed quality control testing including pH measurement, titration, and moisture analysis
 - Handled raw materials and maintained production parameters to ensure product consistency
 - Troubleshoot and repair of production equipment to reduce downtime
-
+  
 ---
