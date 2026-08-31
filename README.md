@@ -12,7 +12,7 @@ Electrical Engineering graduate with internship experience with embedded softwar
 ## Skills
 
 **Programming :**  
-C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML,
+C++ , C , JAVA , Python , ROS , Machine learning/neural networks , SystemVerilog , JavaScript , HTML ,
 
 **Embedded Systems & Hardware:** 
 STM32, Raspberry Pi, SPI, I2C, UART, oscilloscopes, logic analyzers
@@ -21,10 +21,11 @@ STM32, Raspberry Pi, SPI, I2C, UART, oscilloscopes, logic analyzers
 CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
 
 **Software & Development tools:**  
-Visual Studio Code , MATLAB/Simulink , Xilinx Vivado , Git/GitLab , Code Composer Studio , Wireshark
+Visual Studio Code , MATLAB/Simulink , Xilinx Vivado , Git/GitLab , Code Composer Studio , Wireshark ,
+
 
 **Robotics & System Design:** 
-Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines)
+Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines),  ROBOGUIDE , FANUC HandlingPro , 
 
 **CAD & Engineering Software:**  
 SOLIDWORKS , Bluebeam Revu , AutoCAD , Navisworks CAD
