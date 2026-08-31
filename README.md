@@ -23,7 +23,6 @@ CAN , LIN , MQTT brokers/clients , CANalyzer , BusMaster
 **Software & Development tools:**  
 Visual Studio Code , MATLAB/Simulink , Xilinx Vivado , Git/GitLab , Code Composer Studio , Wireshark ,
 
-
 **Robotics & System Design:** 
 Simultaneous Localization and Mapping (SLAM) , FSM (Finite State Machines),  ROBOGUIDE , FANUC HandlingPro , 
 
@@ -109,5 +108,3 @@ _MAY 2017– April 2021_ , _August 2024–January 2026_
 - Troubleshoot and repair of production equipment to reduce downtime
 
 ---
-
-
